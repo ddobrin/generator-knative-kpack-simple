@@ -1,3 +1,7 @@
+---
+actions:
+  to: kubernetes/native/image-native.yaml
+---
 apiVersion: kpack.io/v1alpha1
 kind: Image
 metadata:
