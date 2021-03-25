@@ -30,5 +30,5 @@ spec:
     git:
       revision: main
       url: https://github.com/ddobrin/spring-native-function-knative.git
-  tag: {{artifactId}}-native:{{version}}
+  tag: {{artifactId}}-native:{{artifactVersion}}
 status: {}
